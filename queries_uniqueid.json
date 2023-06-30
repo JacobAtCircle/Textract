@@ -1,0 +1,122 @@
+[
+    {
+        "Text": "PO:",
+        "Alias": "PO"
+    },
+    {
+        "Text": "ORD",
+        "Alias": "ORD"
+    },
+    {
+        "Text": "SN:",
+        "Alias": "SN"
+    },
+    {
+        "Text": "Shipment Number:",
+        "Alias": "ShipNum"   
+    },
+    {
+        "Text": "REQID:",
+        "Alias": "REQID"
+    },
+    {
+        "Text": "PRO:",
+        "Alias": "PRO"
+    },
+    {
+        "Text": "OURREF:",
+        "Alias": "OURREF"
+    },
+    {
+        "Text": "SO:",
+        "Alias": "SO"
+    },
+    {
+        "Text": "BOL:",
+        "Alias": "BOL"
+    },
+    {
+        "Text": "SHIPID:",
+        "Alias": "SHIPID"
+    },
+    {
+        "Text": "MC:",
+        "Alias": "MC"
+    },
+    {
+        "Text": "PICKUPNUM:",
+        "Alias": "PICKUPNUM"
+    },
+    {
+        "Text": "TRIPID:",
+        "Alias": "TRIPID"
+    },
+    {
+        "Text": "ID:",
+        "Alias": "ID"
+    },
+    {
+        "Text": "DR:",
+        "Alias": "DR"
+    },
+    {
+        "Text": "LN:",
+        "Alias": "LN"
+    },
+    {
+        "Text": "JOBNAME:",
+        "Alias": "JOBNAME"
+    },
+    {
+        "Text": "SD:",
+        "Alias": "SD"
+    },
+    {
+        "Text": "LOADNUM:",
+        "Alias": "LOADNUM"
+    },
+    {
+        "Text": "JOBNUM:",
+        "Alias": "JOBNUM"
+    },
+    {
+        "Text": "EWR",
+        "Alias": "EWR"
+    },
+    {
+        "Text": "REF:",
+        "Alias": "REF"
+    },
+    {
+        "Text": "UFLNUM:",
+        "Alias": "UFLNUM"
+    },
+    {
+        "Text": "LOADID:",
+        "Alias": "LOADID"
+    },
+    {
+        "Text": "OMEGAJOBNUM:",
+        "Alias": "OMEGAJOBNUM"
+    },
+    {
+        "Text": "ULFNUM:",
+        "Alias": "ULFNUM"
+    },
+    {
+        "Text": "Bill Of Lading:",
+        "Alias": "BOL_long"
+    },
+    {
+        "Text": "Uber Freight Load #:",
+        "Alias": "UFLNUM_lng"
+    },
+    {
+        "Text": "Reference:",
+        "Alias": "REF_lng"
+    },
+    {
+        "Text": "Load ID:",
+        "Alias": "LOADID_lng" 
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "Text": "Origin:",
+        "Alias": "ORG"
+    },
+    {
+        "Text": "Pickup:",
+        "Alias": "PU"
+    },
+    {
+        "Text": "Destination:",
+        "Alias": "DEST"
+    },
+    {
+        "Text": "Delivery:",
+        "Alias": "DELIV"
+    },
+    {
+        "Text": "Bill To:",
+        "Alias": "ORG"
+    },
+    {
+        "Text": "Origin City:",
+        "Alias": "ORG CITY"
+    },
+    {
+        "Text": "Origin State:",
+        "Alias": "ORG STATE"
+    },
+    {
+        "Text": "Origin Country:",
+        "Alias": "ORG CTRY"
+    },
+    {
+        "Text": "Origin Zip:",
+        "Alias": "ORG ZIP"
+    },
+    {
+        "Text": "Destination City:",
+        "Alias": "DEST CITY"
+    },
+    {
+        "Text": "Destination State:",
+        "Alias": "DEST STATE"
+    },
+    {
+        "Text": "Destination Country:",
+        "Alias": "DEST CTRY"
+    },
+    {
+        "Text": "Weight:",
+        "Alias": "WEIGHT"
+    },
+    {
+        "Text": "Total Weight:",
+        "Alias": "TOTAL WEIGHT"
+    },
+    {
+        "Text": "Pickup Date:",
+        "Alias": "PU DATE"
+    },
+    {
+        "Text": "Drop Off Date:",
+        "Alias": "DO DATE"
+    },
+    {
+        "Text": "PICKUP LOCATION",
+        "Alias": "PU LOCATION"
+    },
+    {
+        "Text": "FOR DELIVERY TO",
+        "Alias": "FDT"
+    },
+    {
+        "Text": "SHIPPER",
+        "Alias": "SHIPPER"
+    },
+    {
+        "Text": "Deliver on:",
+        "Alias": "D ON"
+    },
+    {
+        "Text": "Instructions:",
+        "Alias": "INSTR"
+    },
+    {
+        "Text": "NET WEIGHT",
+        "Alias": "NET WT"
+    },
+    {
+        "Text": "EXPECTED DATE",
+        "Alias": "EDATE"
+    },
+    {
+        "Text": "WAREHOUSE",
+        "Alias": "WAREHOUSE"
+    },
+    {
+        "Text": "SHIP FROM:",
+        "Alias": "SHIP FROM"
+    },
+    {
+        "Text": "COLLECT FROM:",
+        "Alias": "COLLECT FROM"
+    }
+]
